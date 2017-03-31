@@ -1,12 +1,7 @@
-# Futuur Visuals
-## The static version of futuur webapp — used to speed up the visuals development and front end integration.
+# HUB9 Provisory Landing Page
+## The static version of Hub9 provisory landing page with some Canvas, particles and css animation experiments.
 ** built using FireShell [![Build Status](https://travis-ci.org/toddmotto/fireshell.png)](https://travis-ci.org/toddmotto/fireshell)
 
-
-
-* Source: [github.com/toddmotto/fireshell](http://github.com/toddmotto/fireshell)
-* Homepage: [getfireshell.com](http://getfireshell.com)
-* Twitter: [@getfireshell](http://twitter.com/getfireshell)
 
 ## Jump start
 
